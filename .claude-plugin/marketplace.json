@@ -1,0 +1,12 @@
+{
+  "name": "bhagrav-skills",
+  "description": "Reusable skills for AI agents.",
+  "owner": { "name": "bhagrav101" },
+  "plugins": [
+    {
+      "name": "operating-manual",
+      "source": "./",
+      "description": "Create a personal operating manual through a guided interview."
+    }
+  ]
+}

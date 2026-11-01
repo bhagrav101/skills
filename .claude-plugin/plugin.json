@@ -1,0 +1,8 @@
+{
+  "name": "operating-manual",
+  "version": "1.0.0",
+  "description": "Create a personal operating manual through a guided interview.",
+  "license": "MIT",
+  "author": { "name": "bhagrav101" },
+  "skills": ["./skills/self/operating-manual"]
+}
